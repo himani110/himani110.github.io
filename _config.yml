@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Testing Universe by Himani
+title: Testing Universe by Himani123
 email: himani110@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Testing Universe is an exciting venture that delves deep into the realm of testing. 
