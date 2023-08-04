@@ -36,15 +36,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-    API Testing :
-      Manual Testing
-      Automation 
-      Non-Functional
-    Automation Framework
-  - CI/CD Tools
-  - Strategies
-  - Test planning & Management
 
 # Exclude from processing.
 # The following items will not be processed, by default.
