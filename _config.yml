@@ -33,10 +33,13 @@ github_username:  himani110
 
 # Build settings
 #theme: minima
-remote_theme: pages-themes/architect@v0.2.0
+#remote_theme: pages-themes/architect@v0.2.0
+# theme: pages-themes/architect@v0.2.0
+theme: just-the-docs
+
+
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 
 # Exclude from processing.
